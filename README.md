@@ -1,2 +1,13 @@
 # Calculator-application
-This is calculator with custom design 🗽🗽🗽
+
+### Main features: 
+ - Html
+ - Scss
+ - Js 
+ - Methodology Bem
+ - UX & UI
+ - Dark and White them
+ 
+
+
+---
