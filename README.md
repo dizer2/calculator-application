@@ -12,4 +12,4 @@
 
 ---
 
-https://dizer2.github.io/calculator-application/
+https://yurii-calculator-application.netlify.app/
